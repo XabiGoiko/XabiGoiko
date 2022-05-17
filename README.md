@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @XabiGoiko
+- 👀 I’m interested in DJ, TECNOLOGY and PROGRAMING
+- 🌱 I’m currently learning HTML, CSS and JAVA SCRIPT
